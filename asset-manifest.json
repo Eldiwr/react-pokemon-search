@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-pokemon-search/static/css/main.7acaea2f.css",
-    "main.js": "/react-pokemon-search/static/js/main.7a16fcd8.js",
+    "main.js": "/react-pokemon-search/static/js/main.f7c59559.js",
     "static/media/nutychego.jpg": "/react-pokemon-search/static/media/nutychego.2fea8a1cbf1088cad326.jpg",
     "index.html": "/react-pokemon-search/index.html",
     "main.7acaea2f.css.map": "/react-pokemon-search/static/css/main.7acaea2f.css.map",
-    "main.7a16fcd8.js.map": "/react-pokemon-search/static/js/main.7a16fcd8.js.map"
+    "main.f7c59559.js.map": "/react-pokemon-search/static/js/main.f7c59559.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.7a16fcd8.js"
+    "static/js/main.f7c59559.js"
   ]
 }
