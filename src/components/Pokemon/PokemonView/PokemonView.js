@@ -5,7 +5,7 @@ export const PokemonView = ({ pokemon: { sprites, name, stats } }) => {
             <h2>{name}</h2>
             <ul>
                 {stats.map(entry => (
-                    <li kay={entry.stat.name}>
+                    <li key={entry.stat.name}>
                         {entry.stat.name}: {entry.base_stat}
                     </li>
                 ))}
